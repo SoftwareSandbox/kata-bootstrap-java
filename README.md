@@ -1,1 +1,2 @@
-# kata-bootstrap-java
+# Kata Bootstrap Java
+Empty repository for any kata.
